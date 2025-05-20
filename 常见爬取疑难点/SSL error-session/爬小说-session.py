@@ -1,4 +1,4 @@
-
+import os
 import random
 import re
 import time
@@ -13,7 +13,7 @@ headers = {
 }
 session = requests.session()
 
-
+os.mkdir('越女剑')
 response = session.get(url,headers=headers)
 response.encoding = 'utf8'
 tree = etree.HTML(response.text)

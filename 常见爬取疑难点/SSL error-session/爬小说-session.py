@@ -13,7 +13,8 @@ headers = {
 }
 session = requests.session()
 
-os.mkdir('越女剑')
+if not os.path.exists('越女剑'):
+    os.mkdir('越女剑')
 response = session.get(url,headers=headers)
 response.encoding = 'utf8'
 tree = etree.HTML(response.text)

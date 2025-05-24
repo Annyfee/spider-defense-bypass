@@ -1,7 +1,8 @@
 # 图片懒加载
 
 🔗 配套图文讲解发布于csdn:
-> [爬图片-懒加载](https://blog.csdn.net/2401_87328929/article/details/148074149)
+> [站长素材](https://blog.csdn.net/2401_87328929/article/details/148074149)
+> [微博图片](https://blog.csdn.net/2401_87328929/article/details/148170374)
 
 - 简要介绍图片懒加载的出现场景与原理
 - 通过实战案例讲解如何处理类似问题

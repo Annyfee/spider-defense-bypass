@@ -14,7 +14,7 @@ header = {
 
 # 代理链接
 def get_proxy():
-    url_proxy = 'http://api.xiequ.cn/VAD/GetIp.aspx?act=get&uid=160977&vkey=B581A0493590F58640B8D52069FA40A0&num=50&time=30&plat=1&re=1&type=0&so=1&ow=1&spl=1&addr=&db=1'
+    url_proxy = '你的api接口'
     res = requests.get(url_proxy).text
     return res.strip().split('\r\n')
 

@@ -1,7 +1,6 @@
-# 问政平台
+# 问政平台 -- 使用代理并获取当前页的标题与对应代码
 import random
 import time
-
 import requests
 from lxml import etree
 import os

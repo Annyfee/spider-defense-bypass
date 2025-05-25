@@ -1,3 +1,5 @@
+# 以获取站长素材当前页面的所有图片信息为目标，并保存到对应文件夹。
+
 import time
 
 import requests

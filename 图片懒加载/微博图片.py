@@ -1,3 +1,5 @@
+# 以微博网页图片为例，获取该页面下所有图片并保存。
+
 import os.path
 import requests
 from lxml import etree

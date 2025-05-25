@@ -10,20 +10,20 @@
 
 
 --- 
-## 链接跳转
+## 目录跳转
 >  前者跳转至项目 **具体代码** 
 > 
 >  后者📖可跳转至csdn博客 **图文讲解**
 * IP代理
-  * [问政平台](https://blog.csdn.net/2401_87328929/article/details/148097821) [📖](https://blog.csdn.net/2401_87328929/article/details/148193001)
+  * [问政平台](https://github.com/Annyfee/spider-defense-bypass/blob/main/IP%E4%BB%A3%E7%90%86/%E9%97%AE%E6%94%BF%E5%B9%B3%E5%8F%B0.py) [📖](https://blog.csdn.net/2401_87328929/article/details/148193001)
 * xpath进阶
-  * [爬小说](https://blog.csdn.net/2401_87328929/article/details/148109062) [📖](https://blog.csdn.net/2401_87328929/article/details/148098889)
+  * [爬小说](https://github.com/Annyfee/spider-defense-bypass/blob/main/xpath%E8%BF%9B%E9%98%B6/%E7%88%AC%E5%B0%8F%E8%AF%B4.py) [📖](https://blog.csdn.net/2401_87328929/article/details/148098889)
 * 图片懒加载
-  * [微博图片](https://blog.csdn.net/2401_87328929/article/details/148189096) [📖](https://blog.csdn.net/2401_87328929/article/details/148170374)
-  * [站长素材](https://blog.csdn.net/2401_87328929/article/details/148189096) [📖](https://blog.csdn.net/2401_87328929/article/details/148123963)
+  * [微博图片](https://github.com/Annyfee/spider-defense-bypass/blob/main/%E5%9B%BE%E7%89%87%E6%87%92%E5%8A%A0%E8%BD%BD/%E5%BE%AE%E5%8D%9A%E5%9B%BE%E7%89%87.py) [📖](https://blog.csdn.net/2401_87328929/article/details/148170374)
+  * [站长素材](https://github.com/Annyfee/spider-defense-bypass/blob/main/%E5%9B%BE%E7%89%87%E6%87%92%E5%8A%A0%E8%BD%BD/%E7%AB%99%E9%95%BF%E7%B4%A0%E6%9D%90.py) [📖](https://blog.csdn.net/2401_87328929/article/details/148123963)
 * 爬取text&json型数据
-  * [下厨房-text](https://blog.csdn.net/2401_87328929/article/details/148040696) [📖](https://blog.csdn.net/2401_87328929/article/details/148074149)
-  * [智慧职教-json](https://blog.csdn.net/2401_87328929/article/details/148069059) [📖](https://blog.csdn.net/2401_87328929/article/details/148046380)
+  * [下厨房-text](https://github.com/Annyfee/spider-defense-bypass/blob/main/%E7%88%AC%E5%8F%96text%26json%E5%9E%8B%E6%95%B0%E6%8D%AE/%E4%B8%8B%E5%8E%A8%E6%88%BF-text.py) [📖](https://blog.csdn.net/2401_87328929/article/details/148074149)
+  * [智慧职教-json](https://github.com/Annyfee/spider-defense-bypass/blob/main/%E7%88%AC%E5%8F%96text%26json%E5%9E%8B%E6%95%B0%E6%8D%AE/%E6%99%BA%E6%85%A7%E8%81%8C%E6%95%99-json.py) [📖](https://blog.csdn.net/2401_87328929/article/details/148046380)
 
 --- 
 

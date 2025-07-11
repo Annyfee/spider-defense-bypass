@@ -58,6 +58,7 @@ def handler(page, keyword):
             for card in cards:
                 if data_count >= max_count:
                     break
+
                 # 去重
                 index = card.attr('data-index')
                 if index in s:

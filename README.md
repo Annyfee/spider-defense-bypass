@@ -26,7 +26,7 @@
 | 智慧职教       | [📁](https://github.com/Annyfee/spider-defense-bypass/blob/main/%E7%88%AC%E5%8F%96text%26json%E5%9E%8B%E6%95%B0%E6%8D%AE/%E6%99%BA%E6%85%A7%E8%81%8C%E6%95%99-json.py)                                    | [📖](https://blog.csdn.net/2401_87328929/article/details/148046380) | JSON数据提取         | ⭐   |
 | 小红书        | [📁](https://github.com/Annyfee/spider-defense-bypass/tree/main/%E8%87%AA%E5%8A%A8%E5%8C%96%E7%88%AC%E8%99%AB/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%AC%94%E8%AE%B0%E8%87%AA%E5%8A%A8%E5%8C%96%E9%87%87%E9%9B%86) | [📖](https://blog.csdn.net/2401_87328929/article/details/149253153) | 自动化爬取            | ⭐⭐⭐ |
 | 豆瓣top250电影 | [📁](https://github.com/Annyfee/spider-defense-bypass/tree/main/%E5%BC%82%E6%AD%A5%E7%88%AC%E8%99%AB)                                                                                                     | [📖](https://blog.csdn.net/2401_87328929/article/details/149298713) | 异步爬取(多进程/多线程/协程) | ⭐⭐⭐ |
-| scrapy框架   | [📁](https://github.com/Annyfee/spider-defense-bypass/tree/main/%E5%BC%82%E6%AD%A5%E7%88%AC%E8%99%AB)                                                                                                     | [📖](https://blog.csdn.net/2401_87328929/article/details/149298713) | scrapy使用         | ⭐⭐⭐⭐ |
+| scrapy框架   | [📁](https://github.com/Annyfee/spider-defense-bypass/tree/main/scrapy%E6%A1%86%E6%9E%B6)                                                                                                     | [📖](https://blog.csdn.net/2401_87328929/article/details/149533074) | scrapy使用         | ⭐⭐⭐⭐ |
 
 --- 
 

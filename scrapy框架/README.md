@@ -1,5 +1,9 @@
 ## tips
-1. 以上几个框架中，First仅为刚创感受下它的用处，bilipro则是对B站某个关键字搜索所返回的视频标题与作者并保存到csv中，biliDB则是保存在数据库(mysql/redis)中
+1. First仅用于熟悉使用命令，可以不看
+2. bilipro则是对B站某个关键字搜索所返回的视频标题与作者并保存到csv中
+3. biliDB同2，但它保存在数据库(mysql/redis)中
+4. imgpro是爬取360搜索的图片页，保存图片
+5. deeppro是爬取问政平台，涵盖到二次请求的深度爬取
 
 
 ## 操作流程
@@ -12,7 +16,7 @@
    3. USER_AGENT处去掉注释并写入正确UA(浏览器上的UA直接copy过来就行)
 5. 写完你的所有爬虫逻辑后，运行:scrapy crawl (爬虫文件名称)
 
-## 注意事项
+## 注意事项(bilirpo/biliDB)
 1. scrapy不用写etree这些，它已经帮你封装好了，直接写xpath就行
 2. 爬虫文件的def parse(self, response)，其中response就是响应对象，直接用它就行
 3. scrapy中用xpath进行数据提取，获取到的是一个Selector对象，想要的文本数据是会被存储到该对象的内部
@@ -29,3 +33,12 @@
 6. 一个管道负责将数据存储到一个具体的载体/平台中，如想存储到另一个或多个平台，需创建多个管道。创建的新管道需要配置到settings的管道列表ITEM_PIPELINES中
 7. 管道后的数字表示优先级。数字越小表明该管道的运行优先级越高。
 8. yield是将数据提交给管道，当有多个管道时，会传递给优先级高的，则优先级高的就得再将该数据传递给其他管道(通过return)
+
+
+## 注意事项(imgpro)
+1. imgpro适用希望存储图片的框架
+2. settings.py中可以写IMAGES_STORE作为爬取文件夹的存储路径
+3. 爬取图片中的pipelines写的三个函数是固定写法，不能更改
+4. 
+
+## 注意事项(imgpro)
